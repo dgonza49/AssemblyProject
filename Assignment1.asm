@@ -1,10 +1,8 @@
-Title	Assignment 1 
+Title	Assembly Calculator
 
 ;Daniel J. Gonzalez
-;gonzald3@oregonstate.edu
-;CS271-400
-;Assignment #1
-;1.21.2018
+
+
 
 
 include	Irvine32.inc
