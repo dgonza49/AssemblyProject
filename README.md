@@ -1,5 +1,5 @@
 # AssemblyProject
-This program was written in Visual Studios
+This program was written in Visual Studios. 
 Run the program in that environment.
 Note: Running this program through dosbox or another emulator
 may require more advanced setup. 
