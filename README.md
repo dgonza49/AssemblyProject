@@ -1,7 +1,7 @@
 # AssemblyProject
-This program was written in Visual Studios and is best
-to run the program in that environment.
-Running this program through dosbox or another emulator
+This program was written in Visual Studios
+Run the program in that environment.
+Note: Running this program through dosbox or another emulator
 may require more advanced setup. 
 
 The program is a Calculator written in Assembly language 
